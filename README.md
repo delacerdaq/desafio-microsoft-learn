@@ -6,7 +6,7 @@ Aqui estão os resultados do curso da **Microsoft Learn**, que fiz como parte do
 Este curso foi uma jornada cheia de aprendizado, onde explorei tópicos sobre controle de versões com o Git e GitHub, além de ferramentas essenciais para o desenvolvimento colaborativo de software. 🌱
 
 Se quiser conferir meu progresso e a conclusão do desafio, é só acessar o link abaixo: <br>
-🔗 <a target="_blank" href="https://learn.microsoft.com/api/achievements/share/en-us/AnaLuizadeLacerda-7531/E5TWHA7P?sharingId=52D3930F37123B27">Veja meu certificado/conclusão do desafio aqui</a>
+🔗 <a href="https://learn.microsoft.com/api/achievements/share/en-us/AnaLuizadeLacerda-7531/E5TWHA7P?sharingId=52D3930F37123B27">Veja meu certificado/conclusão do desafio aqui</a>
 
 
 ## 🎯 Objetivo do Curso
